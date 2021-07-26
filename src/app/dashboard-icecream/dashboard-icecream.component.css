@@ -1,11 +1,5 @@
 .grid-container {
-  margin: 20px;  
-}
-.dashboard-card {
-  position: absolute;
-  top: 15px;
-  left: 15px;
-  bottom: 15px;
+  margin: 10px;  
 }
 .more-button {
   position: absolute;
@@ -21,12 +15,7 @@
   height: 48px;
   font-size: 17px;
   }
-.padding-form {
-  margin-right: 8px;
-  font-size: 16px;
-  width:300px;
-  margin-bottom: 10px;
-}
+
 .padding-form input{
   height: 15px;
  }
